@@ -1,0 +1,47 @@
+{
+    "prediction_1": {
+        "Label": [
+            "person"
+        ],
+        "LabelID": "14",
+        "Center": [
+            0.4345,
+            0.481
+        ],
+        "Size": [
+            0.237,
+            0.586
+        ],
+        "Confidence": "0.9716973"
+    },
+    "prediction_2": {
+        "Label": [
+            "person"
+        ],
+        "LabelID": "14",
+        "Center": [
+            0.6825,
+            0.5625
+        ],
+        "Size": [
+            0.543,
+            0.787
+        ],
+        "Confidence": "0.95062697"
+    },
+    "prediction_3": {
+        "Label": [
+            "person"
+        ],
+        "LabelID": "14",
+        "Center": [
+            0.2315,
+            0.514
+        ],
+        "Size": [
+            0.463,
+            0.97
+        ],
+        "Confidence": "0.9409299"
+    }
+}
